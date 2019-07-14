@@ -1,0 +1,34 @@
+c:\users\nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_LOGIN.resources
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_MAIN.resources
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_WORKER_MANAGMENT.resources
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_DEPARTMENT.resources
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_SEARCH.resources
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_USER_MANAGEMENT.resources
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_WORKER_MAJOR.resources
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_WORKER_REPORT.resources
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.resources
+C:\Users\Nagat\documents\visual studio 2013\Projects\Reports Section in YPC\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_Reports.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_DEPARTMENT.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_forwardProblem.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_LOGIN.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_MAIN.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_Sender.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_SenderReport.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_SenderViewReport.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_SentReportDetails.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_WORKER_MAJOR.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_WORKER_MANAGMENT.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_WORKER_REPORT.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FRM_Reports.resources
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Then Me\Desktop\Reports Section\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
